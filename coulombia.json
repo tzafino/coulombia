@@ -72,14 +72,7 @@
             "streamUrl":"http://64.37.55.231:8652/stream",
             "yourmuzeId":"0","state":"1"
         },
-        {
-            "number":"1187",
-            "name":"Radio Maria",
-            "logo":"69_2020_67_03_21_48_37_696.png",
-            "streamUrl":"http://dreamsiteradiocp.com:8076/;",
-            "yourmuzeId":"0","state":"1"
-        },
-        
+  
         {
             "number":"1185",
             "name":"Antena 2 RCN",
@@ -155,7 +148,7 @@
         {
             "number":"1172",
             "name":"Diego Primavera Radio",
-            "logo":"82_2020_67_03_21_52_44_526.png",
+            "logo":"Diego Primavera Radio.png",
             "streamUrl":"http://node-10.zeno.fm/khtx2x66vhruv?rj-ttl=5&rj-tok=AAABcLwz34oA3-KayDXWYPiNug",
             "yourmuzeId":"0","state":"1"
         },
@@ -260,7 +253,7 @@
         {
             "number":"1150",
             "name":"Sistema Cardenal Barranquilla",
-            "logo":"83_2020_67_03_21_52_37_923.png",
+            "logo":"Sistema Cardenal Barranquilla.png",
             "streamUrl":"http://198.27.78.145:8086/stream/3/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -477,7 +470,7 @@
         {
             "number":"1110",
             "name":"Coopiradio Virtual",
-            "logo":"77_2020_67_03_21_52_24_335.png",
+            "logo":"Coopiradio Virtual.jpg",
             "streamUrl":"http://radio30.virtualtronics.com:8126/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -526,7 +519,7 @@
         {
             "number":"1100",
             "name":"Radio Berea",
-            "logo":"26_2020_67_03_21_52_17_835.png",
+            "logo":"Radio Berea.png",
             "streamUrl":"http://sv2.globalhostlive.com:8341/stream",
             "yourmuzeId":"0","state":"1"
         },
@@ -603,7 +596,7 @@
         {
             "number":"1086",
             "name":"AsoacpoMedellin",
-            "logo":"24_2020_67_03_21_52_12_263.png",
+            "logo":"AsoacpoMedellin.png",
             "streamUrl":"http://stream.miradio.in:8511/;stream.nsv",
             "yourmuzeId":"0","state":"1"
         },
@@ -631,14 +624,14 @@
         {
             "number":"1081",
             "name":"Energia FM Online",
-            "logo":"465_2020_67_03_21_52_12_069.png",
+            "logo":"Energia.jpg",
             "streamUrl":"http://node-27.zeno.fm/mufgwz7v8qzuv?rj-ttl=5&rj-tok=AAABcLwGoVMAy_AXbtBMEBa2OQ",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"1080",
             "name":"Alejandria Radio",
-            "logo":"53_2020_67_03_21_52_11_885.png",
+            "logo":"Alejandria Radio.png",
             "streamUrl":"http://stream1.servercristianonetwork.com:8094/live",
             "yourmuzeId":"0","state":"1"
         },
@@ -925,7 +918,7 @@
         {
             "number":"1019",
             "name":"IMIW Radio",
-            "logo":"34_2020_67_03_21_51_46_154.png",
+            "logo":"IMIW Radio.png",
             "streamUrl":"http://panel.streamingmedios.com:7070/;%22",
             "yourmuzeId":"0","state":"1"
         },
@@ -1030,7 +1023,7 @@
         {
             "number":"999",
             "name":"Mi Gente Radio",
-            "logo":"59_2020_67_03_21_51_45_300.png",
+            "logo":"Mi Gente Radio.jpg",
             "streamUrl":"http://51.15.160.78:8154/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -1062,13 +1055,7 @@
             "streamUrl":"http://51.15.160.78:8654/live",
             "yourmuzeId":"0","state":"1"
         },
-        {
-            "number":"994",
-            "name":"MANANTIAL STEREO",
-            "logo":"999_2020_67_03_21_51_39_624.png",
-            "streamUrl":"http://51.15.160.78:8354/stream",
-            "yourmuzeId":"0","state":"1"
-        },
+      
         {
             "number":"993",
             "name":"Cerati Stereo",
@@ -1100,7 +1087,7 @@
         {
             "number":"987",
             "name":"Vox Dei Panamericana Pereira",
-            "logo":"89_2020_67_03_21_51_38_681.png",
+            "logo":"Vox Dei Panamericana Pereira.png",
             "streamUrl":"http://samuel.i-radio.co:8000/centroevangelisticopereira",
             "yourmuzeId":"0","state":"1"
         },
@@ -1282,7 +1269,7 @@
         {
             "number":"950",
             "name":"Red Global Prensa Radio Tv",
-            "logo":"88_2020_67_03_21_51_25_807.png",
+            "logo":"Red Global Prensa Radio Tv.jpg",
             "streamUrl":"http://163.172.77.142:8354/stream",
             "yourmuzeId":"0","state":"1"
         },
@@ -1401,7 +1388,7 @@
         {
             "number":"927",
             "name":"Dinamica Stereo",
-            "logo":"40_2020_67_03_21_51_19_908.png",
+            "logo":"Dinamica Stereo.jpg",
             "streamUrl":"http://185.250.105.207:2050/stream",
             "yourmuzeId":"0","state":"1"
         },
@@ -1513,7 +1500,7 @@
         {
             "number":"910",
             "name":"LaVozdeNewPereira.com",
-            "logo":"82_2020_67_03_21_51_13_885.png",
+            "logo":"LaVozdeNewPereira.png",
             "streamUrl":"http://131.153.56.234:9712/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -1548,7 +1535,7 @@
         {
             "number":"905",
             "name":"Academia Comunicar",
-            "logo":"60_2020_67_03_21_51_13_470.png",
+            "logo":"Academia Comunicar.jpg",
             "streamUrl":"http://198.27.88.38:7058/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -1625,7 +1612,7 @@
         {
             "number":"894",
             "name":"Nexus Stereo",
-            "logo":"74_2020_67_03_21_51_12_828.png",
+            "logo":"Nexus Stereo.jpg",
             "streamUrl":"https://onlineradiobox.com/json/co/nexusstereo/play?platform=web",
             "yourmuzeId":"0","state":"1"
         },
@@ -1793,7 +1780,7 @@
         {
             "number":"870",
             "name":"Riosucio Stereo",
-            "logo":"71_2020_67_03_21_51_06_403.png",
+            "logo":"Riosucio Stereo.png",
             "streamUrl":"http://cassini.shoutca.st:8734/stream.mp3",
             "yourmuzeId":"0","state":"1"
         },
@@ -1821,7 +1808,7 @@
         {
             "number":"866",
             "name":"Manantial Stereo",
-            "logo":"78_2020_67_03_21_51_00_836.png",
+            "logo":"MANANTIAL STEREO.jpg",
             "streamUrl":"http://209.126.119.28:8201/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -1982,7 +1969,7 @@
         {
             "number":"843",
             "name":"Encuentro Latino Radio",
-            "logo":"72_2020_67_03_21_50_54_150.png",
+            "logo":"Encuentro Latino Radio.jpg",
             "streamUrl":"http://real2.streaming-co.com:8657/;stream.nsv",
             "yourmuzeId":"0","state":"1"
         },
@@ -2087,14 +2074,14 @@
         {
             "number":"828",
             "name":"La Voz del Pueblo",
-            "logo":"51_2020_67_03_21_50_53_363.png",
+            "logo":"La Voz del Pueblo.jpg",
             "streamUrl":"http://149.56.134.163:9940/;stream.nsv",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"827",
             "name":"Ecos Radio",
-            "logo":"36_2020_67_03_21_50_52_974.png",
+            "logo":"Ecos Radio.jpg",
             "streamUrl":"http://www.colombiaemite.com:10266/;stream.nsv",
             "yourmuzeId":"0","state":"1"
         },
@@ -2234,7 +2221,7 @@
         {
             "number":"807",
             "name":"Radio Chécheres",
-            "logo":"47_2020_67_03_21_50_46_915.png",
+            "logo":"Radio Chécheres.jpg",
             "streamUrl":"http://node-09.zeno.fm/skc0kv54y6duv?rj-ttl=5&rj-tok=AAABcLp26IcAs5PqxfrwyWPSvA",
             "yourmuzeId":"0","state":"1"
         },
@@ -2325,7 +2312,7 @@
         {
             "number":"794",
             "name":"Ecos del Rosario",
-            "logo":"46_2020_67_03_21_50_41_307.png",
+            "logo":"Ecos del Rosario.jpg",
             "streamUrl":"http://192.99.153.170:10002/;stream",
             "yourmuzeId":"0","state":"1"
         },
@@ -2346,14 +2333,14 @@
         {
             "number":"791",
             "name":"Improvisando Radio",
-            "logo":"71_2020_67_03_21_50_40_977.png",
+            "logo":"Improvisando Radio.png",
             "streamUrl":"http://radio25.virtualtronics.com:8180/;",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"790",
             "name":"Preferencial Estéreo",
-            "logo":"86_2020_67_03_21_50_40_945.png",
+            "logo":"Preferencial Estéreo.png",
             "streamUrl":"http://streaming.hdserver.biz:9318/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -2556,7 +2543,7 @@
         {
             "number":"761",
             "name":"Solar de la Salsa",
-            "logo":"32_2020_67_03_21_50_33_823.png",
+            "logo":"Solar de la Salsa.jpg",
             "streamUrl":"http://radio35.virtualtronics.com:8156/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -2598,7 +2585,7 @@
         {
             "number":"755",
             "name":"Monte de Adoracion Radio",
-            "logo":"27_2020_67_03_21_50_28_404.png",
+            "logo":"Monte de Adoracion Radio.jpg",
             "streamUrl":"http://samuel.i-radio.co:8000/iccmontedeadoracion",
             "yourmuzeId":"0","state":"1"
         },
@@ -2731,7 +2718,7 @@
         {
             "number":"736",
             "name":"Buena Stereo Radio",
-            "logo":"36_2020_67_03_21_50_27_324.png",
+            "logo":"Buena Stereo Radio",
             "streamUrl":"http://node-08.zeno.fm/dhy98v673mruv.aac?rj-ttl=5&rj-tok=AAABcLpeS8sAHU5IcS8lTr9I3w",
             "yourmuzeId":"0","state":"1"
         },
@@ -2808,7 +2795,7 @@
         {
             "number":"725",
             "name":"Android Chocò",
-            "logo":"89_2020_67_03_21_50_21_708.png",
+            "logo":"Android Chocò.png",
             "streamUrl":"http://stream2.emisorasvirtuales.com:8434/;stream.mp3",
             "yourmuzeId":"0","state":"1"
         },
@@ -2829,7 +2816,7 @@
         {
             "number":"722",
             "name":"Sol Latino Radio",
-            "logo":"82_2020_67_03_21_50_21_377.png",
+            "logo":"Sol Latino Radio.png",
             "streamUrl":"http://radio25.virtualtronics.com:8036/;stream",
             "yourmuzeId":"0","state":"1"
         },
@@ -2885,7 +2872,7 @@
         {
             "number":"714",
             "name":"La Voz Gabrielista",
-            "logo":"0_2020_67_03_21_50_20_788.png",
+            "logo":"La Voz Gabrielista.jpg",
             "streamUrl":"http://real1.streaming-co.com:8064/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -2906,7 +2893,7 @@
         {
             "number":"711",
             "name":"La Voz del Misionero",
-            "logo":"93_2020_67_03_21_50_20_824.png",
+            "logo":"La Voz del Misionero.jpg",
             "streamUrl":"http://51.15.160.78:8365/live",
             "yourmuzeId":"0","state":"1"
         },
@@ -3081,7 +3068,7 @@
         {
             "number":"686",
             "name":"Radio Avivamiento",
-            "logo":"68_2020_67_03_21_50_14_288.png",
+            "logo":"Radio Avivamiento.jpg",
             "streamUrl":"http://avivamiento.usuarios.space:8034/live",
             "yourmuzeId":"0","state":"1"
         },
@@ -3102,7 +3089,7 @@
         {
             "number":"683",
             "name":"Radio Cascada Estereo",
-            "logo":"27_2020_67_03_21_50_08_687.png",
+            "logo":"Radio Cascada Estereo.jpg",
             "streamUrl":"http://real1.streaming-co.com:8070/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -3207,7 +3194,7 @@
         {
             "number":"668",
             "name":"la 50 radio",
-            "logo":"54_2020_67_03_21_50_07_763.png",
+            "logo":"la 50 radio.jpg",
             "streamUrl":"http://209.126.107.182:8382/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -3225,13 +3212,7 @@
             "streamUrl":"http://51.15.160.78:8384/;stream.nsv",
             "yourmuzeId":"0","state":"1"
         },
-        {
-            "number":"665",
-            "name":"Radio Ciudad",
-            "logo":"239_2020_67_03_21_50_07_732.png",
-            "streamUrl":"http://62.210.209.179:8056/stream?",
-            "yourmuzeId":"0","state":"1"
-        },
+     
         {
             "number":"664",
             "name":"La Maxima FM",
@@ -3375,7 +3356,7 @@
         {
             "number":"644",
             "name":"Carbon Stereo",
-            "logo":"28_2020_67_03_21_50_01_823.png",
+            "logo":"Carbon Stereo.jpg",
             "streamUrl":"http://51.15.160.78:8318/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -3410,7 +3391,7 @@
         {
             "number":"639",
             "name":"Radio Ciudad",
-            "logo":"95_2020_67_03_21_50_01_155.png",
+            "logo":"Radio Ciudad.png",
             "streamUrl":"http://62.210.209.179:8056/stream?",
             "yourmuzeId":"0","state":"1"
         },
@@ -3627,7 +3608,7 @@
         {
             "number":"608",
             "name":"Soneros de Siempre",
-            "logo":"65_2020_67_03_21_49_54_669.png",
+            "logo":"Soneros de Siempre.jpg",
             "streamUrl":"http://212.83.146.67:9500/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -3806,13 +3787,7 @@
             "streamUrl":"http://209.126.119.28:8484/;",
             "yourmuzeId":"0","state":"1"
         },
-        {
-            "number":"582",
-            "name":"Mi Gente Stereo",
-            "logo":"10_2020_67_03_21_49_48_218.png",
-            "streamUrl":"http://144.217.195.24:8666/;",
-            "yourmuzeId":"0","state":"1"
-        },
+      
         {
             "number":"581",
             "name":"Canela Estéreo",
@@ -3837,7 +3812,7 @@
         {
             "number":"578",
             "name":"Bomba FM Radio.Net",
-            "logo":"67_2020_67_03_21_49_48_172.png",
+            "logo":"Bomba FM Radio.Net.png",
             "streamUrl":"http://46.4.33.73:10600/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -3872,7 +3847,7 @@
         {
             "number":"573",
             "name":"TEURAMA ESTEREO 107.2",
-            "logo":"63_2020_67_03_21_49_48_179.png",
+            "logo":"TEURAMA ESTEREO.jpg",
             "streamUrl":"http://51.15.160.78:8036/stream",
             "yourmuzeId":"0","state":"1"
         },
@@ -3949,7 +3924,7 @@
         {
             "number":"562",
             "name":"PASIÓN ESTÉREO",
-            "logo":"89_2020_67_03_21_49_42_563.png",
+            "logo":"PASIÓN ESTÉREO.png",
             "streamUrl":"http://209.126.103.199:8000/live",
             "yourmuzeId":"0","state":"1"
         },
@@ -3977,7 +3952,7 @@
         {
             "number":"558",
             "name":"Eden Estereo",
-            "logo":"37_2020_67_03_21_49_42_229.png",
+            "logo":"Eden Estereo.jpg",
             "streamUrl":"http://www.colombiaemite.com:10044/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -3991,7 +3966,7 @@
         {
             "number":"556",
             "name":"Maguaré Estéreo",
-            "logo":"65_2020_67_03_21_49_41_620.png",
+            "logo":"Maguaré Estéreo.png",
             "streamUrl":"http://streaming.hdserver.biz:9448/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -4061,7 +4036,7 @@
         {
             "number":"546",
             "name":"Radio Canticos Del Ayer",
-            "logo":"47_2020_67_03_21_49_41_218.png",
+            "logo":"Radio Canticos Del Ayer.jpg",
             "streamUrl":"http://stm6.miradio.com.es:7526/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -4194,7 +4169,7 @@
         {
             "number":"527",
             "name":"Ecos del Palmar",
-            "logo":"46_2020_67_03_21_49_35_128.png",
+            "logo":"Ecos del Palmar.jpg",
             "streamUrl":"http://192.99.233.46:9438/;stream.mp3",
             "yourmuzeId":"0","state":"1"
         },
@@ -4208,7 +4183,7 @@
         {
             "number":"525",
             "name":"Yumbo Estereo Radio",
-            "logo":"71_2020_67_03_21_49_35_174.png",
+            "logo":"Yumbo Estereo Radio.jpg",
             "streamUrl":"http://209.126.119.28:8303/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -4264,7 +4239,7 @@
         {
             "number":"517",
             "name":"Roble Stereo",
-            "logo":"46_2020_67_03_21_49_35_106.png",
+            "logo":"Roble Stereo.jpg",
             "streamUrl":"http://195.154.133.107:8657/;play.mp3",
             "yourmuzeId":"0","state":"1"
         },
@@ -4355,7 +4330,7 @@
         {
             "number":"504",
             "name":"Colombia Urban Mix",
-            "logo":"37_2020_67_03_21_49_29_293.png",
+            "logo":"Colombia Urban Mix.jpg",
             "streamUrl":"http://s5.radioboss.fm:8323/stream",
             "yourmuzeId":"0","state":"1"
         },
@@ -4397,7 +4372,7 @@
         {
             "number":"498",
             "name":"La Voz De La Provincia",
-            "logo":"61_2020_67_03_21_49_28_602.png",
+            "logo":"La Voz De La Provincia.jpg",
             "streamUrl":"http://www.colombiaemite.com:10014/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -4432,7 +4407,7 @@
         {
             "number":"493",
             "name":"Latina Valle",
-            "logo":"72_2020_67_03_21_49_28_576.png",
+            "logo":"Latina Valle.jpge",
             "streamUrl":"http://51.15.160.78:8176/stream",
             "yourmuzeId":"0","state":"1"
         },
@@ -4544,7 +4519,7 @@
         {
             "number":"477",
             "name":"Amén Comunicaciones",
-            "logo":"25_2020_67_03_21_49_23_018.png",
+            "logo":"Amén Comunicaciones.png",
             "streamUrl":"http://stream2.emisorasvirtuales.com:8144/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -4733,7 +4708,7 @@
         {
             "number":"450",
             "name":"Radio Santander Stereo",
-            "logo":"34_2020_67_03_21_49_16_607.png",
+            "logo":"Radio Santander Stereo.jpg",
             "streamUrl":"http://www.colombiaemite.com:10104/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -4789,7 +4764,7 @@
         {
             "number":"442",
             "name":"Radio Yiye Avila",
-            "logo":"95_2020_67_03_21_49_15_523.png",
+            "logo":"Radio Yiye Avila.png",
             "streamUrl":"http://stm10.miradio.com.es:11984/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -5013,7 +4988,7 @@
         {
             "number":"410",
             "name":"Radio Camino de Santidad",
-            "logo":"81_2020_67_03_21_49_09_001.png",
+            "logo":"Radio Camino de Santidad.jpg",
             "streamUrl":"http://radio30.virtualtronics.com:8234/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -5080,13 +5055,7 @@
             "streamUrl":"http://209.126.119.28:8388/stream",
             "yourmuzeId":"0","state":"1"
         },
-        {
-            "number":"400",
-            "name":"Radio Camino de Santidad",
-            "logo":"204_2020_67_03_21_49_03_591.png",
-            "streamUrl":"http://radio30.virtualtronics.com:8234/;",
-            "yourmuzeId":"0","state":"1"
-        },
+  
         {
             "number":"399",
             "name":"Arauna Stereo",
@@ -5160,7 +5129,7 @@
         {
             "number":"389",
             "name":"Celeste Estéreo",
-            "logo":"79_2020_67_03_21_49_03_194.png",
+            "logo":"Celeste Estéreo.jpg",
             "streamUrl":"http://real1.streaming-co.com:8594/;stream.nsv&type=mp3",
             "yourmuzeId":"0","state":"1"
         },
@@ -5174,7 +5143,7 @@
         {
             "number":"387",
             "name":"Positiva FM",
-            "logo":"52_2020_67_03_21_49_03_198.png",
+            "logo":"Positiva FM.jpg",
             "streamUrl":"http://99.198.110.162:7098/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -5279,14 +5248,14 @@
         {
             "number":"372",
             "name":"Emisora de Dios",
-            "logo":"72_2020_67_03_21_49_02_590.png",
+            "logo":"Emisora de Dios.jpg",
             "streamUrl":"http://198.27.88.38:7332/;",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"371",
             "name":"Guarne Stereo",
-            "logo":"93_2020_67_03_21_49_02_294.png",
+            "logo":"Guarne Stereo.png",
             "streamUrl":"http://stream2.emisorasvirtuales.com:8210/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -5419,7 +5388,7 @@
         {
             "number":"352",
             "name":"Salsagordaradio Salsa",
-            "logo":"70_2020_67_03_21_48_56_311.png",
+            "logo":"Salsagordaradio Salsa.png",
             "streamUrl":"http://node-27.zeno.fm/u27pdewuq74tv?rj-ttl=5&rj-tok=AAABcLeIsC4AGQx0ELaQ_8bipw",
             "yourmuzeId":"0","state":"1"
         },
@@ -5531,7 +5500,7 @@
         {
             "number":"336",
             "name":"Mundo 89",
-            "logo":"39_2020_67_03_21_48_50_788.png",
+            "logo":"Mundo 89.jpg",
             "streamUrl":"http://192.99.44.11:9859/stream",
             "yourmuzeId":"0","state":"1"
         },
@@ -5875,7 +5844,7 @@
         {
             "number":"286",
             "name":"Cardenal Stereo",
-            "logo":"99_2020_67_03_21_48_43_245.png",
+            "logo":"Cardenal Stereo.png",
             "streamUrl":"http://198.27.78.145:8086/stream?",
             "yourmuzeId":"0","state":"1"
         },
@@ -5931,14 +5900,14 @@
         {
             "number":"278",
             "name":"La Joya FM",
-            "logo":"49_2020_67_03_21_48_37_696.png",
+            "logo":"La Joya FM.png",
             "streamUrl":"http://192.99.14.225:9304/;",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"277",
             "name":"Voces del Pacifico",
-            "logo":"34_2020_67_03_21_48_37_696.png",
+            "logo":"Voces del Pacifico.jpg",
             "streamUrl":"http://virtualtronics.net:8306/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -5966,7 +5935,7 @@
         {
             "number":"273",
             "name":"Radio Maria",
-            "logo":"69_2020_67_03_21_48_37_696.png",
+            "logo":"Radio Maria.jpg",
             "streamUrl":"http://dreamsiteradiocp.com:8076/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -6120,7 +6089,7 @@
         {
             "number":"251",
             "name":"Radio Rumbo",
-            "logo":"62_2020_67_03_21_48_31_502.png",
+            "logo":"Radio Rumbo.png",
             "streamUrl":"https://stream.zeno.fm/w42k9abttbruv.mp3",
             "yourmuzeId":"0","state":"1"
         },
@@ -6218,7 +6187,7 @@
         {
             "number":"237",
             "name":"Emisora Cielo Cartagena",
-            "logo":"77_2020_67_03_21_48_30_906.png",
+            "logo":"Emisora Cielo Cartagena.jpg",
             "streamUrl":"http://samuel.i-radio.co:8000/cielocartagena",
             "yourmuzeId":"0","state":"1"
         },
@@ -6295,7 +6264,7 @@
         {
             "number":"226",
             "name":"La Voz de La Patria Celestial",
-            "logo":"55_2020_67_03_21_48_30_266.png",
+            "logo":"La Voz de.jpg",
             "streamUrl":"http://149.56.147.197:8004/stream",
             "yourmuzeId":"0","state":"1"
         },

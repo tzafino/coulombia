@@ -2718,7 +2718,7 @@
         {
             "number":"736",
             "name":"Buena Stereo Radio",
-            "logo":"Buena Stereo Radio",
+            "logo":"Buena Stereo Radio.jpg",
             "streamUrl":"http://node-08.zeno.fm/dhy98v673mruv.aac?rj-ttl=5&rj-tok=AAABcLpeS8sAHU5IcS8lTr9I3w",
             "yourmuzeId":"0","state":"1"
         },
@@ -4407,7 +4407,7 @@
         {
             "number":"493",
             "name":"Latina Valle",
-            "logo":"Latina Valle.jpge",
+            "logo":"Latina Valle.jpg",
             "streamUrl":"http://51.15.160.78:8176/stream",
             "yourmuzeId":"0","state":"1"
         },
@@ -6453,7 +6453,7 @@
         {
             "number":"199",
             "name":"Energia",
-            "logo":"43_2020_67_03_21_48_24_093.png",
+            "logo":"EnergiaA.png",
             "streamUrl":"http://172.93.48.52:8000/;stream/1",
             "yourmuzeId":"0","state":"1"
         },
